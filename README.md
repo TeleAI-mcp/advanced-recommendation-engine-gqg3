@@ -1,2 +1,3 @@
-# advanced-recommendation-engine-gqg3
-AI-powered recommendation system for modern development workflows
+# Advanced Recommendation Engine Gqg3
+
+A AI-powered recommendation system for modern development workflows.
